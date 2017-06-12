@@ -47,7 +47,7 @@ It may include:
 - problem statement/intention of site/identified requirements
 - research
   - personas/target market
-  - competitor Analysis
+  - competitor analysis
     - pros and cons
   - user testing
     - results
