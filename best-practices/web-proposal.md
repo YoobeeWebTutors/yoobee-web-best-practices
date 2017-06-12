@@ -9,14 +9,14 @@
 * Favour visualisation tools (diagrams, charts, mock-ups, etc) over text. Avoid walls of text
 * Include all necessary components from the Yoobee Web Proposal Guide
 
-** Client documentation
+## Client documentation
 
 * Deliver in pdf format on A4 letterhead
 * Ensure documentation is presented professionally to a standard that could be shown to a client
 * Keep the language to a technical level suitable for the client
 * Ensure planning is complete and proposal is signed off by client prior to development
 
-** Internal documentation
+## Internal documentation
 * Keep the language to a technical level suitable for your team members
 
 
