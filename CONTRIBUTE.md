@@ -1,17 +1,11 @@
 [![N|Solid](images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
 
-# Yoobee Web Best Practices
-A set of best practices for the Yoobee School of Design L6 Web &amp; UX Design programme.
+# Contribute
+When contributing to this resource, please think about the following for the best practice statments:
 
-* [Treaty of Waitangi](treaty-of-waitangi.md)
-* [Visual Design](visual-design.md)
-* Web Coding
-  - [HTML](html.md)
-  - [CSS](css.md)
-  - [Javascript](javascript.md)
-* [Web Proposal](web-proposal.md)
-* [Version Control](version-control.md)
-* [Typography](typography.md)
-* [Soft skills](soft-skills.md)
+* Keep it lean. Use concise statements
+* Keep it instructional. Start with a verb
+* Keep it relevant. Try to order the best practices by most important to least (but this isn't a hard rule). Leave anything trivial out
+* Have fun!
 
 
