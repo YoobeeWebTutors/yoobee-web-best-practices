@@ -5,10 +5,11 @@
 When producing a web proposal at Yoobee School of Design, you should:
 
 * Ensure document is free of spelling or grammar mistakes
+* Give the document a clear information heirarchy that can be skimmed easliy
 * Describe functionality and structure clearly through diagrams
 * Be explicit when showing concept development
 * Favour visualisation tools (diagrams, charts, mock-ups, etc) over text. Avoid walls of text
-* Include all necessary components from the Yoobee Web Proposal Guide
+* Include all necessary components from the [Yoobee Web Proposal Guide](../best-practices/web-proposal.md)
 
 ## Client documentation
 
@@ -19,5 +20,8 @@ When producing a web proposal at Yoobee School of Design, you should:
 
 ## Internal documentation
 * Keep the language to a technical level suitable for your team members
+
+## Guide
+The Yoobee Web Proposal Guide can be found here: [Yoobee Web Proposal Guide](../best-practices/web-proposal.md)
 
 

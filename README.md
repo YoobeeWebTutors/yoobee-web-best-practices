@@ -14,4 +14,7 @@ A set of best practices for the Yoobee School of Design L6 Web &amp; UX Design p
 * [Typography //WIP](best-practices/typography.md)
 * [Soft skills //WIP](best-practices/soft-skills.md)
 
+## Guides
+* [Yoobee Web Proposal Guide](../best-practices/web-proposal.md)
+
 
