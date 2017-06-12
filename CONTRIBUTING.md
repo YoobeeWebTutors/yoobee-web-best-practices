@@ -1,7 +1,7 @@
 [![N|Solid](images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
 
 # Contribute
-When contributing to this resource, please think about the following for the best practice statments:
+When contributing to this resource, please think about the following for the best practice statements:
 
 * Keep it lean. Use concise statements
 * Keep it instructional. Start with a verb
