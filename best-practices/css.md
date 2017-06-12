@@ -2,7 +2,9 @@
 
 # CSS Best Practices
 
-* Create your HTML first
+When producing CSS for a web project at Yoobee School of Design, you should:
+
+* Plan and create your HTML first
 * Use CSS to adhere to a responsive design plan
 * Use only one style sheet per page (IE conditional styles excepted)
 * Validate your CSS http://jigsaw.w3.org/css-validator/

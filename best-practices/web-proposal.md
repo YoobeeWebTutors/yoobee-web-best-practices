@@ -2,7 +2,8 @@
 
 # Web Proposal Best Practices
 
-* Show name of project, project commencement and projected completion date and both the client’s and author’s contact details on the cover page
+When producing a web proposal at Yoobee School of Design, you should:
+
 * Ensure document is free of spelling or grammar mistakes
 * Describe functionality and structure clearly through diagrams
 * Be explicit when showing concept development

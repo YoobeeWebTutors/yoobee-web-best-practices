@@ -2,6 +2,8 @@
 
 # Javascript Best Practices
 
+When producing Javascript for a web project at Yoobee School of Design, you should:
+
 * Use external scripts unless justified
 * Minimise the number of external scripts a page uses
 * Acknowledge all third party scripts using comments

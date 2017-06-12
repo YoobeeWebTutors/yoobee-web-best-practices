@@ -2,6 +2,8 @@
 
 # Treaty of Waitangi Best Practices
 
+When planning and producing a web project at Yoobee School of Design, you should:
+
 * Consider promotion of the Maori language and culture through inclusion
 * Incorporate aspects of te ao Māori (the Maori World)
 * Ensure Tikanga Māori (the Maori “way”) is valued and promoted

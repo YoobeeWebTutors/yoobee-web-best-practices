@@ -2,6 +2,8 @@
 
 # HTML Best Practices
 
+When producing HTML for a web project at Yoobee School of Design, you should:
+
 * Use the correct HTML5 doctype
 * Validate HTML http://validator.w3.org/
 * Don’t use deprecated tags

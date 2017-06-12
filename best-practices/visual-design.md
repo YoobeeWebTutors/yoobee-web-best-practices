@@ -2,6 +2,8 @@
 
 # Visual Design Best Practices
 
+When creating visual designs for a web project at Yoobee School of Design, you should:
+
 * Create a clear visual hierarchy
 * Define functional regions of a page
 * Group page elements that are related so you can see structure in the content
