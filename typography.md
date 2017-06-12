@@ -1,4 +1,4 @@
 [![Yoobee School of Design](images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
 
-# Treaty of Waitangi Best Practices
+# Typography Best Practices
 WIP
