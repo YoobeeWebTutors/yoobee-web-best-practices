@@ -3,15 +3,15 @@
 # Yoobee Web Best Practices
 A set of best practices for the Yoobee School of Design L6 Web &amp; UX Design programme.
 
-* [Treaty of Waitangi](treaty-of-waitangi.md)
-* [Visual Design](visual-design.md)
+* [Treaty of Waitangi](best-practices/treaty-of-waitangi.md)
+* [Visual Design](best-practices/visual-design.md)
 * Web Coding
-  - [HTML](html.md)
-  - [CSS](css.md)
-  - [Javascript](javascript.md)
-* [Web Proposal](web-proposal.md)
-* [Version Control](version-control.md)
-* [Typography](typography.md)
-* [Soft skills](soft-skills.md)
+  - [HTML](best-practices/html.md)
+  - [CSS](best-practices/css.md)
+  - [Javascript](best-practices/javascript.md)
+* [Web Proposal](best-practices/web-proposal.md)
+* [Version Control](best-practices/version-control.md)
+* [Typography](best-practices/typography.md)
+* [Soft skills](best-practices/soft-skills.md)
 
 
