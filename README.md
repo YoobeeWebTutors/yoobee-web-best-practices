@@ -11,6 +11,7 @@ A set of best practices for the Yoobee School of Design L6 Web &amp; UX Design p
   - [Javascript](best-practices/javascript.md)
 * [Web Proposal](best-practices/web-proposal.md)
 * [Version Control](best-practices/version-control.md)
+* [Unified Modeling Language (UML)](best-practices/uml.md)
 * [Typography //WIP](best-practices/typography.md)
 * [Soft skills //WIP](best-practices/soft-skills.md)
 
