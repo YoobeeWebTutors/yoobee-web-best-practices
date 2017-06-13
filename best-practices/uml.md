@@ -4,13 +4,13 @@
 
 When creating UML diagrams in the planning stage for a web project at Yoobee School of Design, you should:
 
-* aim to provide structure for problem solving
-* choose appropriate diagrams and elements
-* keep diagrams relevant and leave out trivial details
-* ensure your UML diagram is easily understandable. If a diagram becomes large or overly complex, see if it can be simplified or broken into separate diagrams
-* get feedback from your teammates and tutor and make required changes to the UML design before development
-* adhere to UML modelling naming conventions
-* maintain a consistent and symmetrical layout
-* always give headings to your diagrams
-* avoid crossing lines 
-* use online diagramming software
+* Aim to provide structure for problem solving
+* Choose appropriate diagrams and elements
+* Keep diagrams relevant and leave out trivial details
+* Ensure your UML diagram is easily understandable. If a diagram becomes large or overly complex, see if it can be simplified or broken into separate diagrams
+* Get feedback from your teammates and tutor and make required changes to the UML design before development
+* Adhere to UML modelling naming conventions
+* Maintain a consistent and symmetrical layout
+* Always give headings to your diagrams
+* Avoid crossing lines 
+* Use online diagramming software
