@@ -1,4 +1,4 @@
-[![Yoobee School of Design](https://raw.githubusercontent.com/YoobeeWebTutors/yoobee-web-best-practices/master/images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
+[![Yoobee School of Design](images/yoobee-logo-300w.png)](http://yoobee.ac.nz)
 
 # Web Proposal Best Practices
 
@@ -9,7 +9,7 @@ When producing a web proposal at Yoobee School of Design, you should:
 * Describe functionality and structure clearly through diagrams
 * Be explicit when showing concept development
 * Favour visualisation tools (diagrams, charts, mock-ups, etc) over text. Avoid walls of text
-* Include all necessary components from the [Yoobee Web Proposal Guide](../guides/web-proposal.md)
+* Include all necessary components from the [Yoobee Web Proposal Guide](guides/web-proposal.md)
 
 ## Client documentation
 
@@ -22,6 +22,6 @@ When producing a web proposal at Yoobee School of Design, you should:
 * Keep the language to a technical level suitable for your team members
 
 ## Guide
-The Yoobee Web Proposal Guide can be found here: [Yoobee Web Proposal Guide](../guides/web-proposal.md)
+The Yoobee Web Proposal Guide can be found here: [Yoobee Web Proposal Guide](guides/web-proposal.md)
 
 
